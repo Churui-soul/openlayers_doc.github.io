@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-d5e5f5fe","path":"/animation/line.html","title":"线动画","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"animation/line.md"}');export{t as data};

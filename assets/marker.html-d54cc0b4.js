@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b907350a","path":"/animation/marker.html","title":"路径动画","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"animation/marker.md"}');export{t as data};
